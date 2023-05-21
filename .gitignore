@@ -1,3 +1,8 @@
+
+employee.dat
+redeems.txt
+users.txt
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
